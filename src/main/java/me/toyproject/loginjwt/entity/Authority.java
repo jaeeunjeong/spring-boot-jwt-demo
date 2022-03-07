@@ -6,10 +6,9 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import java.lang.annotation.Target;
 
 @Entity
-@Table(name = "autholity")
+@Table(name = "Authority")
 @Getter
 @Setter
 @Builder
