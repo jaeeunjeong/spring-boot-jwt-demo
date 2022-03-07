@@ -13,8 +13,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         web
                 .ignoring()
                 .antMatchers(
-                        "h2-console/**",
-                        "favicon.ico"
+                        "/h2-console/**",
+                        "/favicon.ico"
                 );
     }
 
