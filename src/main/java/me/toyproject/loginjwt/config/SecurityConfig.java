@@ -1,4 +1,4 @@
-package me.toyproject.loginjwt.confing;
+package me.toyproject.loginjwt.config;
 
 import me.toyproject.loginjwt.jwt.JwtAccessDeniedHandler;
 import me.toyproject.loginjwt.jwt.JwtAuthenticationEntryPoint;
