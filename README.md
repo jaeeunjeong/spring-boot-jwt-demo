@@ -70,4 +70,5 @@ Authorize
 |authorityName|  String  | |PK| 토큰 정보|
 
 ### 참고
-https://silvernine.me/wp/?p=1078
+https://silvernine.me/wp/?p=1078  
+https://yunb2.tistory.com/3?category=1089736
